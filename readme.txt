@@ -1,7 +1,2 @@
-Hello please run these commands:
-
-sudo chmod +x init.AID
-
-sudo ./init.AID
- 
- Then the rest is printed in your linux terminal.
+Attention!!!
+these are uploaded files by the community. execute them at your own risk!
